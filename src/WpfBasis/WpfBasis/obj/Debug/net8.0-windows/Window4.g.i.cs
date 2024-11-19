@@ -77,7 +77,7 @@ namespace WpfBasis {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfBasis;component/window4.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfBasis;V1.0.0.0;component/window4.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Window4.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

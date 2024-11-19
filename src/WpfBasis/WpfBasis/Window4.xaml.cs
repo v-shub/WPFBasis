@@ -33,7 +33,8 @@ namespace WpfBasis
 
         private void CheckPasswordButton_Click(object sender, RoutedEventArgs e)
         {
-            if (PasswordBox.Text == "пароль")
+            string password = "пароль";
+            if (PasswordBox.Text == password)
                 MessageBox.Show("Всё правильно! Сказано же было - ввести пароль!");
             else
                 MessageBox.Show("Введено не \"пароль\". Попробуйте ещё раз");
