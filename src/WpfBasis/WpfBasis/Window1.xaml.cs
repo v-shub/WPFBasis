@@ -30,5 +30,16 @@ namespace WpfBasis
             pw.Show();
             this.Close();
         }
+
+        private void TranslateButton_Click(object sender, RoutedEventArgs e)
+        {
+            List<string> rusWords = new List<string> { "зима", "весна", "лето", "осень", "дождь", "снег", "солнце", "облако", "гроза", "град" };
+            List<string> engWords = new List<string> { "winter", "spring", "summer", "autumn", "rain", "snow", "sun", "cloud", "thunderstorm", "hail" };
+            string rusText = RussianTextBox.Text.ToLower();
+            if (rusWords.Contains(rusText))
+                EnglishTextLabel.Content = engWords[rusWords.IndexOf(rusText)];
+            else
+                MessageBox.Show("Перевод этого слова отсутствует");
+        }
     }
 }

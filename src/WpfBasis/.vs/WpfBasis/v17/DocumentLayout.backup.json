@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\wpfbasis\\src\\wpfbasis\\wpfbasis\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|solutionrelative:wpfbasis\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\wpfbasis\\src\\wpfbasis\\wpfbasis\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|solutionrelative:wpfbasis\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\wpfbasis\\src\\wpfbasis\\wpfbasis\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|solutionrelative:wpfbasis\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -15,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|solutionrelative:wpfbasis\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\wpfbasis\\src\\wpfbasis\\wpfbasis\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|solutionrelative:wpfbasis\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\wpfbasis\\src\\wpfbasis\\wpfbasis\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|solutionrelative:wpfbasis\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\wpfbasis\\src\\wpfbasis\\wpfbasis\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|solutionrelative:wpfbasis\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\wpfbasis\\src\\wpfbasis\\wpfbasis\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|solutionrelative:wpfbasis\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EBDD8CF-B36C-4366-B398-8DAE2D08938E}|WpfBasis\\WpfBasis.csproj|c:\\users\\victo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\pract\\wpfbasis\\src\\wpfbasis\\wpfbasis\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Window2.xaml.cs",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\Window2.xaml.cs",
               "RelativeDocumentMoniker": "WpfBasis\\Window2.xaml.cs",
@@ -78,12 +78,11 @@
               "RelativeToolTip": "WpfBasis\\Window2.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAASwB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T08:05:48.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T08:05:48.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Window3.xaml.cs",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\Window3.xaml.cs",
               "RelativeDocumentMoniker": "WpfBasis\\Window3.xaml.cs",
@@ -91,12 +90,11 @@
               "RelativeToolTip": "WpfBasis\\Window3.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAASwB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T08:05:37.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T08:05:37.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Window4.xaml.cs",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\Window4.xaml.cs",
               "RelativeDocumentMoniker": "WpfBasis\\Window4.xaml.cs",
@@ -104,25 +102,24 @@
               "RelativeToolTip": "WpfBasis\\Window4.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAASwB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T08:05:05.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T08:05:05.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Window1.xaml.cs",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\Window1.xaml.cs",
               "RelativeDocumentMoniker": "WpfBasis\\Window1.xaml.cs",
               "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\Window1.xaml.cs",
               "RelativeToolTip": "WpfBasis\\Window1.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAvwBwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAASwCkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T08:03:26.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Window4.xaml",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\Window4.xaml",
               "RelativeDocumentMoniker": "WpfBasis\\Window4.xaml",
@@ -134,31 +131,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Window3.xaml",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\Window3.xaml",
               "RelativeDocumentMoniker": "WpfBasis\\Window3.xaml",
               "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\Window3.xaml",
               "RelativeToolTip": "WpfBasis\\Window3.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-19T07:54:07.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T07:54:07.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Window2.xaml",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\Window2.xaml",
               "RelativeDocumentMoniker": "WpfBasis\\Window2.xaml",
               "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\Window2.xaml",
               "RelativeToolTip": "WpfBasis\\Window2.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-19T07:53:53.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T07:53:53.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Window1.xaml",
               "DocumentMoniker": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\Window1.xaml",
               "RelativeDocumentMoniker": "WpfBasis\\Window1.xaml",
@@ -177,8 +172,7 @@
               "ToolTip": "C:\\Users\\victo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Pract\\WPFBasis\\src\\WpfBasis\\WpfBasis\\MainWindow.xaml",
               "RelativeToolTip": "WpfBasis\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-19T07:46:22.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T07:46:22.198Z"
             },
             {
               "$type": "Document",
@@ -190,8 +184,7 @@
               "RelativeToolTip": "WpfBasis\\MainWindow.xaml.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAIwCAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T07:46:13.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T07:46:13.543Z"
             }
           ]
         }

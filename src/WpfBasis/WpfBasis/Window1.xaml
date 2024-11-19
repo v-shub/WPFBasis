@@ -8,6 +8,10 @@
         Title="Window1" Height="450" Width="800">
     <Grid>
         <Button x:Name="BackToMainButton" Content="Назад" HorizontalAlignment="Left" Height="36" Margin="653,357,0,0" VerticalAlignment="Top" Width="96" Click="BackToMainButton_Click"/>
+        <TextBox x:Name="RussianTextBox" HorizontalAlignment="Left" Height="23" Margin="138,200,0,0" TextWrapping="Wrap" Text="Русский текст" VerticalAlignment="Top" Width="170"/>
+        <Label x:Name="EnglishTextLabel" Content="Английский текст" HorizontalAlignment="Left" Height="23" Margin="483,200,0,0" VerticalAlignment="Top" Width="170"/>
+        <Button x:Name="TranslateButton" Content="Перевести" HorizontalAlignment="Left" Height="26" Margin="336,199,0,0" VerticalAlignment="Top" Width="100" Click="TranslateButton_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="138,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70" Width="515"><Run Language="ru-ru" Text="Русско-английский переводчик."/><LineBreak/><Run Language="ru-ru"/><LineBreak/><Run Language="ru-ru" Text="Слова, которые можно перевести: зима, весна, лето, осень, дождь, снег, солнце, облако, гроза, град."/></TextBlock>
 
     </Grid>
 </Window>
