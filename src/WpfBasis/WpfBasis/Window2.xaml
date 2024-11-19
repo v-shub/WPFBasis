@@ -8,6 +8,12 @@
         Title="Window2" Height="450" Width="800">
     <Grid>
         <Button x:Name="BackToMainButton" Content="Назад" HorizontalAlignment="Left" Height="36" Margin="652,356,0,0" VerticalAlignment="Top" Width="96" Click="BackToMainButton_Click"/>
+        <Button x:Name="CalculateButton" Content="Считать" HorizontalAlignment="Left" Height="28" Margin="438,0,0,0" VerticalAlignment="Center" Width="100" Click="CalculateButton_Click"/>
+        <TextBox x:Name="Operand1Box" HorizontalAlignment="Left" Height="28" Margin="81,0,0,0" TextWrapping="Wrap" Text="Операнд 1" VerticalAlignment="Center" Width="91"/>
+        <TextBox x:Name="SignBox" HorizontalAlignment="Left" Height="28" Margin="194,0,0,0" TextWrapping="Wrap" Text="Оператор" VerticalAlignment="Center" Width="91"/>
+        <TextBox x:Name="Operand2Box" HorizontalAlignment="Left" Height="28" Margin="314,0,0,0" TextWrapping="Wrap" Text="Операнд 2" VerticalAlignment="Center" Width="91"/>
+        <TextBlock HorizontalAlignment="Left" Height="95" Margin="81,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="625"><Run Language="ru-ru" Text="Калькулятор."/><LineBreak/><Run Language="ru-ru"/><LineBreak/><Run Language="ru-ru" Text="Доступные операнды: целые числа"/><LineBreak/><Run Language="ru-ru"/><LineBreak/><Run Language="ru-ru" Text="Доступные операторы: +, -, *, /"/></TextBlock>
+        <Label x:Name="ResultLabel" Content="Результат" HorizontalAlignment="Left" Height="28" Margin="587,0,0,0" VerticalAlignment="Center" Width="119"/>
 
     </Grid>
 </Window>
