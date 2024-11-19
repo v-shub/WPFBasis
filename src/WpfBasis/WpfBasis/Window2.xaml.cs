@@ -36,11 +36,12 @@ namespace WpfBasis
             string wrongInputMessage = "Вы ввели что-то не то";
             bool isOperand1 = Int32.TryParse(Operand1Box.Text, out int operand1);
             bool isOperand2 = Int32.TryParse(Operand2Box.Text, out int operand2);
+            string sign = SignBox.Text;
             if (!isOperand1 || !isOperand2)
                 MessageBox.Show(wrongInputMessage);
             else
             {
-                switch (SignBox.Text)
+                switch (sign)
                 {
                     case "+":
                         ResultLabel.Content = operand1 + operand2;
