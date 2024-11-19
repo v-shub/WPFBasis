@@ -30,5 +30,13 @@ namespace WpfBasis
             pw.Show();
             this.Close();
         }
+
+        private void CheckPasswordButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (PasswordBox.Text == "пароль")
+                MessageBox.Show("Всё правильно! Сказано же было - ввести пароль!");
+            else
+                MessageBox.Show("Введено не \"пароль\". Попробуйте ещё раз");
+        }
     }
 }
