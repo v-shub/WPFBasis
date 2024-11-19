@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Button x:Name="Task1Button" Content="Задание 1" HorizontalAlignment="Left" Height="43" Margin="156,114,0,0" VerticalAlignment="Top" Width="130" Click="Task1Button_Click"/>
+        <Button x:Name="Task2Button" Content="Задание 2" HorizontalAlignment="Left" Height="43" Margin="457,114,0,0" VerticalAlignment="Top" Width="130" Click="Task2Button_Click"/>
+        <Button x:Name="Task4Button" Content="Задание 4" HorizontalAlignment="Left" Height="43" Margin="457,251,0,0" VerticalAlignment="Top" Width="130" Click="Task4Button_Click"/>
+        <Button x:Name="Task3Button" Content="Задание 3" HorizontalAlignment="Left" Height="43" Margin="156,251,0,0" VerticalAlignment="Top" Width="130" Click="Task3Button_Click"/>
 
     </Grid>
 </Window>

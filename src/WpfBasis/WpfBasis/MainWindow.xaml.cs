@@ -20,5 +20,33 @@ namespace WpfBasis
         {
             InitializeComponent();
         }
+
+        private void Task1Button_Click(object sender, RoutedEventArgs e)
+        {
+            Window1 pw = new Window1();
+            pw.Show();
+            this.Close();
+        }
+
+        private void Task2Button_Click(object sender, RoutedEventArgs e)
+        {
+            Window2 pw = new Window2();
+            pw.Show();
+            this.Close();
+        }
+
+        private void Task3Button_Click(object sender, RoutedEventArgs e)
+        {
+            Window3 pw = new Window3();
+            pw.Show();
+            this.Close();
+        }
+
+        private void Task4Button_Click(object sender, RoutedEventArgs e)
+        {
+            Window4 pw = new Window4();
+            pw.Show();
+            this.Close();
+        }
     }
 }
