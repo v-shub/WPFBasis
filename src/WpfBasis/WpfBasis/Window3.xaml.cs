@@ -39,7 +39,7 @@ namespace WpfBasis
             else
             {
                 if (interval < 0 | interval > 100)
-                    IntervalLabel.Content = "Число не попадает ни в один из промежутков";
+                    MessageBox.Show("Число не попадает ни в один из промежутков");
                 else if (interval < 15)
                     IntervalLabel.Content = intervalString + "0 - 14";
                 else if (interval < 36)

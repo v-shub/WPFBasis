@@ -8,9 +8,9 @@
         Title="Window3" Height="450" Width="800">
     <Grid>
         <Button x:Name="BackToMainButton" Content="Назад" HorizontalAlignment="Left" Height="36" Margin="653,357,0,0" VerticalAlignment="Top" Width="96" Click="BackToMainButton_Click"/>
-        <TextBox x:Name="NumBox" HorizontalAlignment="Left" Height="25" Margin="134,192,0,0" TextWrapping="Wrap" Text="Число" VerticalAlignment="Top" Width="64"/>
-        <Button x:Name="FindInterval" Content="Найти" HorizontalAlignment="Left" Height="25" Margin="227,192,0,0" VerticalAlignment="Top" Width="116" Click="FindInterval_Click"/>
-        <Label x:Name="IntervalLabel" Content="Промежуток" HorizontalAlignment="Left" Height="25" Margin="375,192,0,0" VerticalAlignment="Top" Width="282"/>
+        <TextBox x:Name="NumBox" HorizontalAlignment="Left" Height="25" Margin="134,192,0,0" TextWrapping="Wrap" Text="Число" VerticalAlignment="Top" Width="94"/>
+        <Button x:Name="FindInterval" Content="Найти" HorizontalAlignment="Left" Height="25" Margin="266,192,0,0" VerticalAlignment="Top" Width="116" Click="FindInterval_Click"/>
+        <Label x:Name="IntervalLabel" Content="Промежуток" HorizontalAlignment="Left" Height="25" Margin="444,192,0,0" VerticalAlignment="Top" Width="213"/>
         <TextBlock HorizontalAlignment="Left" Height="120" Margin="134,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="523"><Run Language="ru-ru" Text="П"/><Run Text="рограмм"/><Run Language="ru-ru" Text="а"/><Run Text=" определ"/><Run Language="ru-ru" Text="яет:"/><LineBreak/><Run Language="ru-ru"/><LineBreak/><Run Language="ru-ru" Text="П"/><Run Text="опадает ли число от 0 до 100 в числовой промежуток [0 - 14] [15 - 35] [36 - 50] [50 - 100]"/><LineBreak/><Run Language="ru-ru"/><LineBreak/><Run Language="ru-ru" Text="И если "/><Run Text="да, то в какой именно"/><Run Language="ru-ru" Text="."/></TextBlock>
 
     </Grid>
